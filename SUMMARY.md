@@ -2,9 +2,9 @@
 
 * [홍토끼쌤](README.md)
 
-## e-PBL <a id="undefined"></a>
+## e-PBL
 
-* [Untitled](undefined/untitled.md)
+* [Untitled](e-pbl/untitled.md)
 
 ## DNA
 
