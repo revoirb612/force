@@ -4,7 +4,7 @@
 
 ## e-PBL
 
-* [Untitled](e-pbl/untitled.md)
+* [PBL](e-pbl/untitled.md)
 
 ## DNA
 
