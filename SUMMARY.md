@@ -4,7 +4,7 @@
 
 ## e-PBL
 
-* [PBL](e-pbl/e-pbl_1.md)
+* [PBL\(mod\)](e-pbl/e-pbl_1.md)
 
 ## DNA
 
