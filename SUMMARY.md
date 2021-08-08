@@ -4,7 +4,7 @@
 
 ## e-PBL
 
-* [PBL](e-pbl/untitled.md)
+* [1. PBL 알아보기](e-pbl/e-pbl_1.md)
 
 ## DNA
 
