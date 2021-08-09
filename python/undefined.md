@@ -1,2 +1,2 @@
-# 컴프리헨션
+# List Comprehension
 
