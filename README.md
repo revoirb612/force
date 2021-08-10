@@ -10,15 +10,17 @@ description: 포스가 함께하기를 by 홍토끼쌤
 
 ## 2. Contents
 
-* Markdown
-* Python
-* C
-* D.N.A.
-  * 빅데이터
-  * 네트워크
-  * AI
-* e-PBL
+* 코딩
+  * Python
+  * Markdown
+* 미래교육
+  * e-PBL
+  * D.N.A.
+    * 빅데이터
+    * 네트워크
+    * AI
 * 발명교육
-* 아두이노
-* 라즈베리파이
+  * 아두이노
+  * 라즈베리파이
+  * 젯슨나
 
