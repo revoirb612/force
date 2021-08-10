@@ -1,6 +1,6 @@
 # Table of contents
 
-* [홍토끼쌤](README.md)
+* [홍토끼쌤의 창의교육](README.md)
 * [Markdown](markdown.md)
 * [Python](python/README.md)
   * [List Comprehension](python/undefined.md)
