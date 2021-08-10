@@ -1,8 +1,8 @@
 ---
-description: 창의교육을 위한 도구들을 모아둔 홈페이지입니다.
+description: 포스를 익혀 제다이가 되자.
 ---
 
-# 홍토끼쌤의 창의교육 창고1
+# ForCE\(For Creative Education\)
 
 * Markdown
 * Python
