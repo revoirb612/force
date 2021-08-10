@@ -4,7 +4,7 @@ description: '''포스''가 함께 하기를 by 홍토끼쌤 :)'
 
 # ForCE: For Creative Education
 
-![홍토끼쌤](http://vignette2.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png, "홍토끼쌤")
+![홍토끼쌤](https://ww.namu.la/s/0626d199b01d219baabc53349c61e4fdd500a39b63048be91c1b1c87ba743476ab241e51216e279951e9d866b62bfe6cbfaf27ab0904ca710839e0278806e775444b8b995ff815e863cd7230ec94fc49308eed7467378e5aa2559d12d2f8b52636520ef0ef491092d2ca3149a6f34d85, "홍토끼쌤")
 
 어린 제다이들의 스승이 되기를 자처하는 초등교사 홍토끼쌤입니다. 
 
