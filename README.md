@@ -1,8 +1,8 @@
 ---
-description: 당신에게 포스가 함께 하기를
+description: '''포스''가 함께 하기를 by 홍토끼쌤'
 ---
 
-# ForCE\(For Creative Education\)
+# ForCE: For Creative Education
 
 * Markdown
 * Python
