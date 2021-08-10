@@ -7,8 +7,8 @@ description: For Creative Education
 ## Contents
 
 * 코딩
-  * Python
-  * Markdown
+  * 파이썬
+  * 마크다운
 * 미래교육
   * 빅데이터
   * 네트워크
