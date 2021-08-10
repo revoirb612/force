@@ -1,5 +1,5 @@
 ---
-description: '포스가 함께 하기를 by 홍토끼쌤  :)'
+description: For Creative Education
 ---
 
 # ForCE
