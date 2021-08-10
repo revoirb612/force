@@ -1,5 +1,5 @@
 ---
-description: 포스를 익혀 제다이가 되자.
+description: '"May the Force be with you." - 포스가 함께 하기를'
 ---
 
 # ForCE\(For Creative Education\)
