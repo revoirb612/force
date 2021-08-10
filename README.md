@@ -1,5 +1,5 @@
 ---
-description: '"May the Force be with you." - 포스가 함께 하기를'
+description: 당신에게 포스가 함께 하기를
 ---
 
 # ForCE\(For Creative Education\)
