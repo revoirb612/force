@@ -16,5 +16,6 @@
 ## 오픈소스 하드웨어 <a id="undefined-2"></a>
 
 * [아두이노](undefined-2/arduino.md)
-* [라즈베리파이](undefined-2/raspberry-pi.md)
+* [라즈베리 파이](undefined-2/raspberry-pi.md)
+* [젯슨 나노](undefined-2/jetson-nano.md)
 
