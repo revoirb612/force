@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ForCE](README.md)
+* [For Creative Education](README.md)
 * [Markdown](markdown.md)
 * [Python](python/README.md)
   * [List Comprehension](python/undefined.md)

@@ -1,14 +1,14 @@
 ---
-description: For Creative Education
+description: 포스가 함께하기를 by 홍토끼쌤
 ---
 
-# ForCE
+# For Creative Education
 
-## Intro
+## 1.
 
 어린 제다이들의 스승이 되기를 자처하는 홍토끼쌤입니다. 미래의 제다이들은 날카로운 광선검으로써 자신을 증명하지 않습니다. 오직 빛나는 창의성만이 그들의 무기입니다. 창의성을 갈고 닦기 위해서는 수많은 실패가 필요합니다. 다행히 이 세상에는 가성비 좋은 실패를 제공하는 도구들이 존재합니다. 어린 제다이들이 장난감처럼 이러한 도구들을 다루게 하는 것, 그것이 제 소명입니다.
 
-## Toys
+## 2.
 
 * Markdown
 * Python
@@ -21,8 +21,6 @@ description: For Creative Education
 * 발명교육
 * 아두이노
 * 라즈베리파이
-
-## 
 
 // ForCE 상표출원중 // 로드맵이 필요하다.
 
