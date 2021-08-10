@@ -4,15 +4,17 @@
 
 ## 코딩
 
-* [Python](undefined/python/README.md)
+* [파이썬](undefined/python/README.md)
   * [List Comprehension](undefined/python/undefined.md)
-* [Markdown](undefined/markdown.md)
+* [마크다운](undefined/markdown.md)
 
 ## 미래교육 <a id="undefined-1"></a>
 
-* [e-PBL](undefined-1/e-pbl.md)
-* [D.N.A.](undefined-1/dna.md)
+* [빅데이터](undefined-1/big-data.md)
+* [네트워크](undefined-1/network.md)
+* [인공지능](undefined-1/ai.md)
 * [드론](undefined-1/drone.md)
+* [e-PBL](undefined-1/e-pbl.md)
 
 ## 발명교육 <a id="undefined-2"></a>
 
