@@ -1,7 +1,7 @@
 # Table of contents
 
 * [ForCE](README.md)
-* [홍토끼쌤](teacher.md)
+* [🐰](teacher.md)
 
 ## 코딩
 
