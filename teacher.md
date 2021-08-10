@@ -14,12 +14,12 @@ description: '"May the Force be with you."'
 
 ### 관련 연구 실적
 * 국가기술자격 빅데이터 분석기사 자격증 취득(2021년 7월 16일, 한국데이터산업진흥원장)
-* AI를 활용한 학교폭력 예방교육 '마니또하자!' 안드로이드앱 제작 및 앱스토어 등록
+* AI를 활용한 학교폭력 예방교육 '마니또하자!' 안드로이드앱 제작 및 플레이스토어 등록
 * 2019 교원 프로그래밍 경진대회 2등급
 * 2018 교원 프로그래밍 경진대회 3등급
 
 ### 관련 연수 실적
-* 2020. 미래교육 담당교원 역량강화 직무연수 등 총 195시간
+* 2020 미래교육 담당교원 역량강화 직무연수 등 총 195시간
 * 패스트캠퍼스 데이터사이언스 온라인 완주반 4기 수료
 * AppBrewery, Introduction to Flutter Development Using Dart 수료
 * AppBrewery, The Complete 2021 Flutter Development Bootcamp with Dart 수료  
