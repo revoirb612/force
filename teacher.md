@@ -1,10 +1,10 @@
 ---
-description: '안녕하세요, 홍토끼쌤입니다 :)'
+description: '"May the Force be with you."'
 ---
 
 # 🐰
 
-## Hello, world!
+## 안녕하세요, 홍토끼쌤입니다 :\)
 
 어린 제다이들의 스승이 되기를 자처하는 홍토끼쌤입니다.
 
@@ -13,7 +13,7 @@ description: '안녕하세요, 홍토끼쌤입니다 :)'
 세상에는 값싼 실패의 경험을 제공해 줄 수 있는 도구와 방법이 존재합니다. 이를 통해서 어린 제다이들이 실패를 즐기게 되는 것, 그것이 제 목표입니다.
 
 ```text
-print("May the Force be with you")
+print("May the ForCE be with you")
 print("포스가 함께하기를")
 ```
 
