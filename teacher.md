@@ -1,5 +1,5 @@
 ---
-description: '"May the Force be with you."'
+description: '"May the ForCE be with you"'
 ---
 
 # 🐰
