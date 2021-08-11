@@ -45,7 +45,8 @@ description: '안녕하세요, 홍토끼쌤입니다 :)'
 * MIEE\(마이크로소프트 혁신교사\), 2020-2021
 * 양산에듀테크지원단\(위두랑, e학습터 전반 컨설팅\), 2020
 
-## 각종 
+## Contacts
 
 * revoirb612@gmail.com
+* [https://www.linkedin.com/in/revoirb612/](https://www.linkedin.com/in/revoirb612/)
 
