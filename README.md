@@ -19,8 +19,6 @@ description: 'For Creative Education, 창의교육을 위하여'
   * 아두이노
   * 라즈베리파이
   * 젯슨나노
-* 환경교육\(공사중\)
-  * 수경재배
 
 
 
