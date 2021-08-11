@@ -1,8 +1,8 @@
 ---
-description: For Creative Education
+description: 'For Creative Education, 창의교육을 위하여'
 ---
 
-# ForCE
+# ForCE!
 
 ## Contents
 
@@ -21,4 +21,6 @@ description: For Creative Education
   * 젯슨나노
 * 환경교육
   * 수경재배
+
+
 

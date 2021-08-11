@@ -1,13 +1,13 @@
 # Table of contents
 
-* [ForCE](README.md)
+* [ForCE!](README.md)
 * [🐰](teacher.md)
 
-## 코딩
+## 👨‍💻 프로그래밍 <a id="programming"></a>
 
-* [파이썬](undefined/python/README.md)
-  * [List Comprehension](undefined/python/undefined.md)
-* [마크다운](undefined/markdown.md)
+* [파이썬](programming/python/README.md)
+  * [List Comprehension](programming/python/undefined.md)
+* [마크다운](programming/markdown.md)
 
 ## 미래교육 <a id="undefined-1"></a>
 
