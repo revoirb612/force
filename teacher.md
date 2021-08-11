@@ -1,10 +1,10 @@
 ---
-description: '"May the Force be with you."'
+description: '홍토끼쌤입니다 :)'
 ---
 
 # 🐰
 
-## 홍토끼쌤
+## May the Force be with you
 
 어린 제다이들의 스승이 되기를 자처하는 홍토끼쌤입니다.
 
