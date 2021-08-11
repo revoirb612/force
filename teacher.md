@@ -4,7 +4,7 @@ description: '안녕하세요, 홍토끼쌤입니다 :)'
 
 # 🐰
 
-## May the ForCE be with you.
+## Hello, world!
 
 어린 제다이들의 스승이 되기를 자처하는 홍토끼쌤입니다.
 

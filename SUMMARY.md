@@ -3,14 +3,13 @@
 * [ForCE!](README.md)
 * [🐰](teacher.md)
 
-## 👨‍💻 프로그래밍 <a id="programming"></a>
+## 👨‍💻 파이썬 프로젝트 <a id="python-project"></a>
 
-* [파이썬](programming/python/README.md)
-  * [List Comprehension](programming/python/undefined.md)
-* [마크다운](programming/markdown.md)
+* [under construction!](python-project/python.md)
 
 ## 미래교육 <a id="undefined-1"></a>
 
+* [마크다운](undefined-1/markdown.md)
 * [빅데이터](undefined-1/big-data.md)
 * [네트워크](undefined-1/network.md)
 * [인공지능](undefined-1/ai.md)
