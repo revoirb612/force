@@ -3,9 +3,9 @@
 * [ForCE!](README.md)
 * [🐰](teacher.md)
 
-## 👨‍💻 파이썬 프로젝트 <a id="python-project"></a>
+## 👨‍💻 파이썬 프로젝트 <a id="project-python"></a>
 
-* [under construction!](python-project/python.md)
+* [간단한 파이썬 프로그램 만들기](project-python/python.md)
 
 ## 미래교육 <a id="undefined-1"></a>
 

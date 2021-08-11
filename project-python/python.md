@@ -1,4 +1,4 @@
-# under construction!
+# 간단한 파이썬 프로그램 만들기
 
 ## Getting Super Powers
 
