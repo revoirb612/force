@@ -5,7 +5,7 @@
 
 ## 👨‍💻 파이썬 프로젝트 <a id="python"></a>
 
-* [간단한 파이썬 프로그램 만들기](python/python.md)
+* [워드클라우드로 시각화 해보기](python/wordcloud.md)
 
 ## 👨‍🚀 미래교육 <a id="future"></a>
 
