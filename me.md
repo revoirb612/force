@@ -12,10 +12,14 @@ description: '"May the ForCE be with you"'
 
 세상에는 값싼 실패의 경험을 제공해 줄 수 있는 도구와 방법이 존재합니다. 이들을 통해서 **어린 제다이들이 실패를 즐기게 되는 것**, 그것이 제 목표입니다. 
 
+{% tabs %}
+{% tab title="Python" %}
 ```python
 print("May the ForCE be with you")
 print("포스가 함께하기를")
 ```
+{% endtab %}
+{% endtabs %}
 
 ##  History
 
