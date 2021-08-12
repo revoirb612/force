@@ -5,17 +5,13 @@
 
 ## 👨‍💻 빅데이터 분석 수업 <a id="bigdata"></a>
 
-* [워드클라우드로 데이터 시각화](bigdata/wordcloud.md)
+* [내 머릿 속 글자 구름](bigdata/wordcloud/README.md)
+  * [1-2차시](bigdata/wordcloud/1-2.md)
+  * [3-4차시](bigdata/wordcloud/3-4.md)
 
 ## 👨‍🚀 미래교육 <a id="future"></a>
 
 * [네트워크](future/network.md)
 * [인공지능](future/ai.md)
 * [드론](future/drone.md)
-
-## 🤹 발명교육 <a id="invention"></a>
-
-* [아두이노](invention/arduino.md)
-* [라즈베리 파이](invention/raspberry-pi.md)
-* [젯슨 나노](invention/jetson-nano.md)
 
