@@ -9,7 +9,6 @@
 
 ## 👨‍🚀 미래교육 <a id="future"></a>
 
-* [마크다운](future/markdown.md)
 * [빅데이터](future/big-data.md)
 * [네트워크](future/network.md)
 * [인공지능](future/ai.md)
