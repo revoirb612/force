@@ -54,5 +54,5 @@ print("포스가 함께하기를")
 
 * Email: revoirb612@gmail.com
 * Linked-In: [https://www.linkedin.com/in/revoirb612](https://www.linkedin.com/in/revoirb612/)
-* Github: [https://github.com/revoirb612](https://github.com/revoirb612)
+* GitHub: [https://github.com/revoirb612](https://github.com/revoirb612)
 
