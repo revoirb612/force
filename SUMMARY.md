@@ -5,7 +5,7 @@
 
 ## 👨‍💻 파이썬 프로젝트 <a id="python"></a>
 
-* [워드클라우드로 시각화 해보기](python/wordcloud.md)
+* [워드클라우드로 데이터 표현하기](python/wordcloud.md)
 
 ## 👨‍🚀 미래교육 <a id="future"></a>
 
