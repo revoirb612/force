@@ -6,7 +6,7 @@ description: 'For Creative Education, 창의교육을 위하여'
 
 ## Intro
 
-창의교육과 관련한 수업활동 연구 자료, 혹은 아이디어를 공유합니다. 
+창의교육과 관련한 수업활동 연구 자료, 혹은 아이디어를 공유합니다.
 
 {% tabs %}
 {% tab title="Python" %}
