@@ -4,7 +4,7 @@ description: '"May the ForCE be with you"'
 
 # 🐰 홍토끼쌤
 
-## 안녕하세 :\)
+## 안녕하세요 :\)
 
 어린 제다이들의 스승이 되기를 자처하는 홍토끼쌤입니다.
 
