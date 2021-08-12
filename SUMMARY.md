@@ -1,7 +1,7 @@
 # Table of contents
 
 * [ForCE?](README.md)
-* [🐰 홍토끼쌤](me.md)
+* [🐰](me.md)
 
 ## 👨‍💻 파이썬 프로젝트 <a id="python"></a>
 

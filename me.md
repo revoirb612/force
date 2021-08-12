@@ -2,7 +2,7 @@
 description: '"May the ForCE be with you"'
 ---
 
-# 🐰 홍토끼쌤
+# 🐰
 
 ## 안녕하세요 :\)
 
