@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro](README.md)
+* [ForCE](README.md)
 * [🐰](teacher.md)
 
 ## 👨‍💻 파이썬 프로젝트 <a id="project-python"></a>
@@ -14,7 +14,6 @@
 * [네트워크](undefined-1/network.md)
 * [인공지능](undefined-1/ai.md)
 * [드론](undefined-1/drone.md)
-* [e-PBL](undefined-1/e-pbl.md)
 
 ## 발명교육 <a id="undefined-2"></a>
 
