@@ -6,6 +6,8 @@ description: 'For Creative Education, 창의교육을 위하여'
 
 ## Intro
 
+학생들과 함께한 다양한 수업활동 사례들을 공유하고자 합니다.
+
 {% tabs %}
 {% tab title="Python" %}
 ```python
@@ -16,8 +18,6 @@ print(title)
 ```
 {% endtab %}
 {% endtabs %}
-
-창의교육을 위한 다양한 시도들을 기록으로 남깁니다. 
 
 ## Contents
 

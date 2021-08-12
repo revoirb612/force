@@ -3,13 +3,12 @@
 * [ForCE?](README.md)
 * [🐰](me.md)
 
-## 👨‍💻 파이썬 프로젝트 <a id="python"></a>
+## 👨‍💻 빅데이터 수업 <a id="bigdata"></a>
 
-* [워드클라우드로 데이터 시각화](python/wordcloud.md)
+* [워드클라우드로 데이터 시각화](bigdata/wordcloud.md)
 
 ## 👨‍🚀 미래교육 <a id="future"></a>
 
-* [빅데이터](future/big-data.md)
 * [네트워크](future/network.md)
 * [인공지능](future/ai.md)
 * [드론](future/drone.md)
