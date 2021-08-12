@@ -44,17 +44,10 @@ print("포스가 함께하기를")
 * AppBrewery, The Complete 2021 Flutter Development Bootcamp with Dart
 {% endtab %}
 
-{% tab title="경력" %}
+{% tab title="관련경력" %}
 * MIEE\(마이크로소프트 혁신교사\), 2020-2021
 * 양산에듀테크지원단\(위두랑, e학습터 전반 컨설팅\), 2020
 * 경인교육대학교 교육학과 졸업, 2014-2010
-{% endtab %}
-
-{% tab title="기타" %}
-* 산티아고 순례길\(프랑스길\) 완주, 2015
-* 유럽 열차 횡단, 2015
-* 러시아 시베리아 열차 횡단, 2015
-* 국토종단 3회 완주, 2017-2011
 {% endtab %}
 {% endtabs %}
 
