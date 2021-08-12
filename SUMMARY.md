@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ForCE!](README.md)
+* [Intro](README.md)
 * [🐰](teacher.md)
 
 ## 👨‍💻 파이썬 프로젝트 <a id="project-python"></a>
