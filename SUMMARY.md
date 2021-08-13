@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🛸 ForCE?](README.md)
-* [🐰](me.md)
+* [🐰 Me?](me.md)
 
 ## 👨‍💻 빅데이터 분석 수업 <a id="bigdata"></a>
 
