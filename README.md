@@ -6,7 +6,7 @@ description: 'For Creative Education, 창의교육을 위하여'
 
 ## Intro
 
-창의교육과 관련한 PBL 수업활동 연구 자료, 혹은 아이디어를 공유합니다. 
+창의교육을 위한 PBL 수업활동 연구 자료, 혹은 아이디어를 공유합니다. 연구 주제로서 주로 빅데이터 분석을 다룰 예정입니다. 수업활동은 기본적으로 초등학교 고학년을 대상으로 설계됩니다. 
 
 {% tabs %}
 {% tab title="Python" %}
@@ -20,6 +20,8 @@ print(title)
 {% endtabs %}
 
 ## Contents
+
+{% page-ref page="bigdata/wordcloud/" %}
 
 
 
