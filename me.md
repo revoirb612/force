@@ -41,10 +41,18 @@ description: 어린 제다이들의 스승
 * AppBrewery, The Complete 2021 Flutter Development Bootcamp with Dart
 {% endtab %}
 
-{% tab title="관련경력" %}
+{% tab title="교직경력" %}
 * MIEE\(마이크로소프트 혁신교사\), 2020-2021
 * 양산에듀테크지원단\(위두랑, e학습터 전반 컨설팅\), 2020
+* 양산 범어초 발령, 2020.3.
+* 양산 증산초 초임 발령, 2015.9.
 * 경인교육대학교 교육학과 졸업, 2014-2010
+{% endtab %}
+
+{% tab title="기타이력" %}
+* 산티아고 순례길 완주, 2015
+* 유라시아 대륙 열차 횡단\(러시아 블라디보스톡~프랑스 파리\), 2015
+* 국토 종단 3회 도보 완주, 2007-2011
 {% endtab %}
 {% endtabs %}
 
