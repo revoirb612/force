@@ -60,6 +60,6 @@ description: 프로그래밍과 글쓰기를 좋아하는 초등교사
 ## Contacts
 
 * Email: revoirb612@gmail.com
-* Linked-In: [https://www.linkedin.com/in/revoirb612](https://www.linkedin.com/in/revoirb612/)
+* LinkedIn: [https://www.linkedin.com/in/revoirb612](https://www.linkedin.com/in/revoirb612/)
 * GitHub: [https://github.com/revoirb612](https://github.com/revoirb612)
 
