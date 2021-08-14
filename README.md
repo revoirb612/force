@@ -6,7 +6,7 @@ description: 'For Creative Education, 창의교육을 위하여'
 
 ## May the 'ForCE' be with you
 
-{% embed url="https://www.youtube.com/embed/M9iYT3lhmd4" caption="May the ForCE be with you" %}
+{% embed url="https://www.youtube.com/embed/M9iYT3lhmd4" caption="" %}
 
 > ### ForCE는
 
