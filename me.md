@@ -4,7 +4,7 @@ description: 어린 제다이들의 스승
 
 # 🐰 홍토끼쌤
 
-## 안녕하세요 :\)
+> ## 안녕하세요 :\)
 
 어린 제다이들의 스승이 되기를 자처하는 홍토끼쌤입니다.
 
@@ -12,9 +12,7 @@ description: 어린 제다이들의 스승
 
 세상에는 값싼 실패의 경험을 제공해 줄 수 있는 도구와 방법이 존재합니다. 이들을 통해서 어린 제다이들이 **실패를 즐기게 되는 것**, 그것이 제 목표입니다. 
 
-{% embed url="https://www.youtube.com/embed/M9iYT3lhmd4" %}
-
-## Personal History
+> ## Personal History
 
 {% tabs %}
 {% tab title="연구실적" %}
@@ -56,7 +54,7 @@ description: 어린 제다이들의 스승
 {% endtab %}
 {% endtabs %}
 
-## Contacts
+> ## Contacts
 
 * Email: revoirb612@gmail.com
 * Linked-In: [https://www.linkedin.com/in/revoirb612](https://www.linkedin.com/in/revoirb612/)
