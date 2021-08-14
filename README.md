@@ -16,5 +16,6 @@ description: 'For Creative Education, 창의교육을 위하여'
 
 ## Contents
 
-1. 워
+1. 워드클라우드
+2. 티쳐블머신
 
