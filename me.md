@@ -4,9 +4,9 @@ description: 프로그래밍과 글쓰기를 좋아하는 초등교사
 
 # 🐰 홍토끼쌤
 
-![](.gitbook/assets/easter-1995546_640.png)
-
 ## 안녕하세요 :\)
+
+![](.gitbook/assets/easter-1995546_640.png)
 
 어린 제다이들의 스승이 되기를 자처하는 홍토끼입니다.
 
