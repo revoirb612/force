@@ -14,4 +14,5 @@
 
 * [스파르타코딩클럽](https://spartacodingclub.kr/)
 * [Teachable Machine](https://teachablemachine.withgoogle.com/)
+* [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
 
