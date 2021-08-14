@@ -41,7 +41,7 @@ description: 프로그래밍과 글쓰기를 좋아하는 초등교사
 * AppBrewery, The Complete 2021 Flutter Development Bootcamp with Dart
 {% endtab %}
 
-{% tab title="지도경력" %}
+{% tab title="활동경력" %}
 * 드론축구동아리 메기라이더스 지도교사, 2020-2021
 * SW선도학교 코딩동아리 지도교사, 2020
 * MIEE\(마이크로소프트 혁신교사\), 2020-2021
