@@ -10,5 +10,7 @@
 
 ## 🚀 바로가기 <a id="shortcut"></a>
 
-* [Untitled](shortcut/untitled.md)
+---
+
+* [스파르타코딩클럽](https://spartacodingclub.kr/)
 
