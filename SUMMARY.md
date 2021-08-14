@@ -8,3 +8,7 @@
 * [1. 워드클라우드](protocol/idea1.md)
 * [2. 티쳐블머신](protocol/case2.md)
 
+## 🚀 바로가기 <a id="shortcut"></a>
+
+* [Untitled](shortcut/untitled.md)
+
