@@ -14,7 +14,5 @@ description: 'For Creative Education, 창의교육을 위하여'
 
 > ## Contents
 
-{% page-ref page="bigdata/wordcloud.md" %}
-
-
+01. 내 머릿 속 글자 구
 
