@@ -6,7 +6,7 @@ description: 'For Creative Education, 창의교육을 위하여'
 
 ## May the 'ForCe' be with you
 
-{% embed url="https://www.youtube.com/embed/M9iYT3lhmd4" %}
+{% embed url="https://www.youtube.com/embed/M9iYT3lhmd4" caption="" %}
 
 > ### ForCe는
 
@@ -16,6 +16,6 @@ description: 'For Creative Education, 창의교육을 위하여'
 
 ## Contents
 
-1. 워드클라우드
-2. 티쳐블머신
+1. [워드클라우드](protocol/idea1.md)
+2. [티쳐블머신](protocol/case2.md)
 
