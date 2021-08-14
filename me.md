@@ -14,7 +14,7 @@ description: 어린 제다이들의 스승
 
 {% embed url="https://www.youtube.com/embed/M9iYT3lhmd4" %}
 
-##  History
+## Record
 
 {% tabs %}
 {% tab title="연구실적" %}
