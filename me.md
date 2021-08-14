@@ -1,5 +1,5 @@
 ---
-description: '"May the ForCE be with you"'
+description: 어린 제다이들의 스승
 ---
 
 # 🐰 홍토끼쌤
@@ -11,15 +11,6 @@ description: '"May the ForCE be with you"'
 21세기 지식기반 사회의 제다이들은 날카로운 광선검으로써 자신을 증명하지 않습니다. 눈에 보이지 않는 `창의력`과 `문제해결력`, `비판적사고력`이 그들의 무기입니다. 모두 수많은 실패를 통해 얻어지는 역량들이지요.
 
 세상에는 값싼 실패의 경험을 제공해 줄 수 있는 도구와 방법이 존재합니다. 이들을 통해서 **어린 제다이들이 실패를 즐기게 되는 것**, 그것이 제 목표입니다. 
-
-{% tabs %}
-{% tab title="Python" %}
-```python
-print("May the ForCE be with you")
-print("포스가 함께하기를")
-```
-{% endtab %}
-{% endtabs %}
 
 {% embed url="https://www.youtube.com/embed/M9iYT3lhmd4" %}
 
