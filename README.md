@@ -16,6 +16,5 @@ description: 'For Creative Education, 창의교육을 위하여'
 
 ## Contents
 
-> 1. [워드클라우드](protocol/idea1.md)
-> 2. 티쳐블머
+1. 워
 
