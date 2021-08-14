@@ -16,6 +16,6 @@ description: 'For Creative Education, 창의교육을 위하여'
 
 ## Contents
 
-1. [내 머릿 속 글자 구름](protocol/idea1.md)
-2. [티쳐블머신](protocol/case2.md)
+> 1. [워드클라우드](protocol/idea1.md)
+> 2. 티쳐블머
 
