@@ -5,6 +5,8 @@
 
 ## 👨‍💻 2021 창의교육 핵심교원 <a id="protocol"></a>
 
+* [01. 인공지능 챗봇 만들기](protocol/chatbot.md)
+
 ## 🚀 바로가기 <a id="shortcut"></a>
 
 * [스파르타코딩클럽](https://spartacodingclub.kr/)
