@@ -1,59 +1,9 @@
 ---
-description: '총 4차시, 초등학교 4학년 대상'
+description: 총 4차시, 초등학교 4학년 대상
 ---
 
 # 01. 인공지능 챗봇 만들기
 
-## 사실 문장
+[![Padlet으로 만듦](https://padlet.net/embeds/made\_with\_padlet.png)](https://padlet.com/?ref=embed)
 
-```text
-사과는 빨갛다.
-```
-
-```text
-민주와 2시 30분에 만나기로 약속했다.
-```
-
-```text
-선생님의 키는 175센티미터이다.
-```
-
-```text
-사과는 파랗다.
-```
-
-```text
-사과는 파랗다.
-```
-
-## 의견 문장
-
-```text
-사과는 맛있다.
-```
-
-```text
-우리 반 홍토끼쌤은 잘생겼다.
-```
-
-```text
-사과는 맛있다.
-```
-
-```text
-우리 엄마는 무섭다.
-```
-
-```text
-사과는 맛있다.
-```
-
-```text
-어제 본 영화는 재미가 없었다.
-```
-
-## 연습 문장
-
-```text
-나는 어제 철수와 소꿉장난을 했다.
-```
+[![Padlet으로 만듦](https://padlet.net/embeds/made\_with\_padlet.png)](https://padlet.com/?ref=embed)
